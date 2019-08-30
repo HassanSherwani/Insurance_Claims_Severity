@@ -12,6 +12,12 @@ https://www.kaggle.com/c/allstate-claims-severity/data
 
 # Content
 
+There are four notebooks related to concepts of Econometrics, machine learning,& deep learning
+
+- EDA
+- ML
+- DL
+
 # Modules
 
 pandas, keras, tensorflow , numpy
